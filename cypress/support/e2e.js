@@ -23,3 +23,4 @@ import './common-method/login'
 
 // require('./common-method/login')
 
+require('cypress-xpath');
