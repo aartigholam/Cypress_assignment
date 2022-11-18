@@ -1,6 +1,12 @@
 {
   "devDependencies": {
     "cypress": "^10.9.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.2.3",
     "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.2",
+    "dateformat": "^5.0.3"
   }
 }
